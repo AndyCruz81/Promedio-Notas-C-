@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\PromedioNotas.exe
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\PromedioNotas.deps.json
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\PromedioNotas.runtimeconfig.json
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\PromedioNotas.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\PromedioNotas.dll
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\ref\PromedioNotas.dll
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\bin\Debug\net5.0\PromedioNotas.pdb
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.AssemblyInfo.cs
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.dll
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\ref\PromedioNotas.dll
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.pdb
+C:\Users\gabri\source\repos\PromedioNotas\PromedioNotas\obj\Debug\net5.0\PromedioNotas.genruntimeconfig.cache
